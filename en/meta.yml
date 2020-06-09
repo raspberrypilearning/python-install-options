@@ -1,6 +1,6 @@
 title: Python install options
 hero_image: images/banner.png
-description: Options for using Python
+description: Guidance about what options you have for using Python 
 version: 4
 listed: false
 copyedit: false
@@ -8,5 +8,5 @@ last_tested: "2020-06-09"
 steps:
   - title: Introduction
   - title: Online
-  - title: Install Python editor
+  - title: Dedicated Python editor
   - title: Full Python install
