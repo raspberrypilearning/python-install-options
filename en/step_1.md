@@ -10,3 +10,4 @@ This guide compares 3 different types of IDE and provides information to help yo
 Online - websites where you can create and run your code in a browser
 Installed Python editor - a single purpose Python IDE installed on your computer 
 Full Python install - a full Python installation on your computer with an optional "standalone" IDE
+
