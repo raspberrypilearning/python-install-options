@@ -1,11 +1,12 @@
-title: python-install-options
+title: Python install options
 hero_image: images/banner.png
-description: python-install-options description
+description: Options for using Python
 version: 4
 listed: false
 copyedit: false
 last_tested: "2020-06-09"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Online
+  - title: Install Python editor
+  - title: Full Python install
