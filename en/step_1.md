@@ -6,7 +6,7 @@ An editor, interpreter and other useful tools (such as a file browser) are often
 
 The IDE you use could be a website such as repl.it or a Python application installed on your computer.
 
-[pictures of python "environments"]
+![screenshot of the IDLE python editor](images/idle.png)
 
 This guide compares 3 different types of IDE and provides information to help you make a decision about what solution is best for you:
 

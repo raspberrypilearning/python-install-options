@@ -1,8 +1,6 @@
 ## Online
 Using an online IDE you can write and run Python programs using just your web browser.
 
-![a screenshot of the online IDE repl.it](images/replit.png)
-
 Online IDEs are a great option for those new to Python and don't require you install any additional software. They often have in-built features for sharing programs with others. 
 
 The code is stored online so it can be accessed from any internet connected device, which can be useful if you are using devices in different locations.
@@ -30,5 +28,11 @@ Disadvantages
 *Online IDEs are useful for those who cannot install software on their computer or want to program across many devices (laptop, tablet, phone, etc).*
 
 Examples of online IDEs:
+
 + repl.it
+
+    ![a screenshot of the online IDE repl.it](images/replit.png)
+
 + trinket.io
+
+    ![a screenshot of the online IDE trinket.io](images/trinket.png)
