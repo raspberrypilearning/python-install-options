@@ -11,7 +11,7 @@ A connection to the internet is required in order to use an online IDE.
 
 While the majority of new learners requirements are supported, not all Python libraries will be supported, particularly those which require a graphical user interface or use 3rd party services. 
 
-Advantages:
+**Advantages**
 
 + Simple to get started.
 + No need to install additional software
@@ -19,7 +19,7 @@ Advantages:
 + In-built features for sharing code with others
 + The code can be accessed by any internet connected device
 
-Disadvantages
+**Disadvantages**
 
 + Connection to the internet is required.
 + Limited support for additional packages and libraries.
@@ -27,16 +27,16 @@ Disadvantages
 
 *Online IDEs are useful for those who cannot install software on their computer or want to program across many devices (laptop, tablet, phone, etc).*
 
-### Example Online IDE's
+**Example Online IDE's**
 
-### [repl.it](https://repl.it)
+***[repl.it](https://repl.it)***
 
 [Repl.it Quick Start Guide](https://docs.repl.it/misc/quick-start)
 
 ![a screenshot of the online IDE repl.it](images/replit.png)
 
-### [trinket.io](https://trinket.io)
+***[trinket.io](https://trinket.io)***
 
-[Trinket Getting Started](https://trinket.io/help#getting-started) Guide
+[Trinket Getting Started Guide](https://trinket.io/help#getting-started)
 
 ![a screenshot of the online IDE trinket.io](images/trinket.png)
