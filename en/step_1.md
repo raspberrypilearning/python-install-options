@@ -10,9 +10,9 @@ The IDE you use could be a website such as repl.it or a Python application insta
 
 This guide compares 3 different types of IDE and provides information to help you make a decision about what solution is best for you:
 
-+ [Online](1) - websites where you can create and run your code in a browser
-+ [Dedicated Python editor](2) - a single purpose Python IDE installed on your computer 
-+ [Full Python install](3) - a full Python installation on your computer with an optional "standalone" IDE
++ [Online](https://projects.raspberrypi.org/en/projects/python-install-options/1) - websites where you can create and run your code in a browser
++ [Dedicated Python editor](https://projects.raspberrypi.org/en/projects/python-install-options/2) - a single purpose Python IDE installed on your computer 
++ [Full Python install](https://projects.raspberrypi.org/en/projects/python-install-options/3) - a full Python installation on your computer with an optional "standalone" IDE
 
 ### Comparison
 
