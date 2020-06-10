@@ -8,25 +8,33 @@ Programs will typically run quicker than using online IDEs. You can also use an 
 
 While they support the majority of programmers requirements, some advanced features may not be supported by these IDEs.
 
-Advantages:
+**Advantages**
 
 + Simplified user interface
 + Support for most programmers needs
 + Increased performance
 + Support for debugging tools
 
-Disadvantages:
+**Disadvantages**
 
 + Some features may not be supported
 + Your code can only be accessed on this device
 
 *Dedicated Python editors are useful for programmers who can install software on their computer, want a simple but powerful interface and don't require advanced features.*
 
-Examples of self-contained IDEs:
-+ Mu - codewith.mu
+**Examples of dedicated Python editors**
 
-    ![a screenshot of the python IDE Mu](images/mu.png)
+[Mu](https://codewith.mu)
 
-+ Thonny - thonny.org
+![a screenshot of the python IDE Mu](images/mu.png)
 
-    ![a screenshot of the python IDE thonny](images/thonny.png)
+[Download Mu](https://codewith.mu/en/download)
+[Mu How-to Guides](https://codewith.mu/en/howto/)
+[Mu Tutorials](https://codewith.mu/en/tutorials/)
+
+[Thonny](thonny.org)
+
+![a screenshot of the python IDE thonny](images/thonny.png)
+
+[Download Thonny](https://thonny.org/)
+[Thonny wiki](https://github.com/thonny/thonny/wiki)
