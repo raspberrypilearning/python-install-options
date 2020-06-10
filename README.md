@@ -1,6 +1,6 @@
 # python-install-options
 
-![python-install-options](banner.png)
+![python-install-options](en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/python-install-options](https://projects.raspberrypi.org/en/projects/python-install-options)
 
