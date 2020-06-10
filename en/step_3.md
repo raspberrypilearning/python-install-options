@@ -2,6 +2,8 @@
 
 A dedicated Python editor is a single application where you can write, debug and run your programs. 
 
+![screenshots of example dedicated python editors](images/python_editors.png)
+
 Python, the IDE, and any required software is bundled into a single installation which must be installed on your computer (Windows, macOS, Linux, Raspberry Pi). 
 
 Programs will typically run quicker than using online IDEs. You can also use an installed Python editor when offline. They normally include support for checking and debugging code as well as features for installing additional packages.
