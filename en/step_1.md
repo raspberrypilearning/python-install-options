@@ -22,5 +22,4 @@ This guide compares 3 different types of IDE and provides information to help yo
 | Available offline | No | Yes | Yes |
 | Useful for | Learners who are unable to install software | Those who don't always have access to the internet | Experts or those who wish to use advanced features |
 | Experience level | Learner| Learner & Intermediate | Intermediate & Expert |
-| Examples | repl.it <br /> trinket.io | Mu <br /> Thonny | python.org <br /> VS Code <br /> Atom |
-
+| Examples | [repl.it](https://repl.it) <br /> [trinket.io](https://trinket.io) | [Mu](https://codewith.mu) <br /> [Thonny](https://thonny.org) | [python.org](https://python.org) <br /> [VS Code](https://code.visualstudio.com/)<br /> [Atom](https://atom.io/) |

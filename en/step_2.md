@@ -27,12 +27,16 @@ Disadvantages
 
 *Online IDEs are useful for those who cannot install software on their computer or want to program across many devices (laptop, tablet, phone, etc).*
 
-### Examples of online IDEs:
+### Example Online IDE's
 
-[repl.it](https://repl.it)
+### [repl.it](https://repl.it)
+
+[Repl.it Quick Start Guide](https://docs.repl.it/misc/quick-start)
 
 ![a screenshot of the online IDE repl.it](images/replit.png)
 
-[trinket.io](https://trinket.io)
+### [trinket.io](https://trinket.io)
+
+[Trinket Getting Started](https://trinket.io/help#getting-started) Guide
 
 ![a screenshot of the online IDE trinket.io](images/trinket.png)
