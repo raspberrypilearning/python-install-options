@@ -1,10 +1,10 @@
 ## Introduction
 
-To create Python programs, you need a text editor to write your code and a Python interpreter, which takes your code and runs it.
+To create Python programs, you need a text editor to write your code, and a Python interpreter, which executes your code.
 
-An editor, interpreter, and other useful tools (e.g. a file browser) are often bundled together into an Integrated Development Environment (IDE), and that makes the process of creating programs much easier.
+An editor, interpreter, and other useful tools (e.g. a file browser) are often bundled together into an Integrated Development Environment (IDE). IDEs make creating programs much easier.
 
-The IDE you use could be a website such as repl.it, or a Python application installed on your computer.
+The IDE you use could either be online, on a website such as repl.it, or it could be installed on your computer.
 
 ![screenshot of the IDLE python editor](images/ide_montage.png)
 
@@ -12,7 +12,7 @@ This guide compares three types of IDE to help you choose the solution that is b
 
 1. [Online IDEs](https://projects.raspberrypi.org/en/projects/python-install-options/1) - websites that let you create and run your code in a browser
 1. [Dedicated Python editor](https://projects.raspberrypi.org/en/projects/python-install-options/2) - a single-purpose Python IDE installed on your computer 
-1. [Full Python install](https://projects.raspberrypi.org/en/projects/python-install-options/3) - a full Python installation on your computer, plus an optional stand-alone IDE
+1. [Full Python install](https://projects.raspberrypi.org/en/projects/python-install-options/3) - a full Python installation on your computer, plus an installed stand-alone IDE
 
 ### Comparison of IDEs
 
