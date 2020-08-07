@@ -34,13 +34,13 @@ Dedicated Python editors are useful for programmers who can install software on 
 
 ![a screenshot of the python IDE Mu](images/mu.png)
 
-[Download Mu](https://codewith.mu/en/download)
-[Mu how-to guides](https://codewith.mu/en/howto/)
-[Mu tutorials](https://codewith.mu/en/tutorials/)
++ [Download Mu](https://codewith.mu/en/download)
++ [Mu how-to guides](https://codewith.mu/en/howto/)
++ [Mu tutorials](https://codewith.mu/en/tutorials/)
 
 [Thonny](thonny.org)
 
 ![a screenshot of the python IDE thonny](images/thonny.png)
 
-[Download Thonny](https://thonny.org/)
-[Thonny wiki](https://github.com/thonny/thonny/wiki)
++ [Download Thonny](https://thonny.org/)
++ [Thonny wiki](https://github.com/thonny/thonny/wiki)

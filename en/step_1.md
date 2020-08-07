@@ -4,9 +4,9 @@ To create Python programs, you need a text editor to write your code, and a Pyth
 
 An editor, interpreter, and other useful tools (e.g. a file browser) are often bundled together into an Integrated Development Environment (IDE). IDEs make creating programs much easier.
 
-The IDE you use could either be online, on a website such as repl.it, or it could be installed on your computer.
+The IDE you use could either be online, on a website such as [repl.it](https://repl.it), or it could be installed on your computer.
 
-![screenshot of the IDLE python editor](images/ide_montage.png)
+![screenshots of different Python IDEs](images/ide_montage.png)
 
 This guide compares three types of IDE to help you choose the solution that is best for you:
 

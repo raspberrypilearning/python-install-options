@@ -31,10 +31,14 @@ The full Python installation can be downloaded from [python.org/downloads](https
 
 **Examples of IDEs for use with Python**
 
-* [Visual Studio Code](https://code.visualstudio.com)
+[IDLE](https://realpython.com/python-idle/)
+
+![screenshot of the IDLE text editor](images/idle.png)
+
+[Visual Studio Code](https://code.visualstudio.com)
 
 ![screenshot of the Visual Studio Code IDE](images/vscode.png)
 
-* [Atom](https://atom.io/)
+[Atom](https://atom.io/)
 
 ![screen shot of the Atom code editor](images/atom.png)
