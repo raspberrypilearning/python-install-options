@@ -1,4 +1,5 @@
 ## Online
+
 Using an online IDE, you can write and run Python programs with just your web browser; you don't need to install any additional software.
 
 ![screenshots of example online IDEs](images/online_ides.png)
@@ -31,13 +32,13 @@ Online IDEs are useful for people who cannot install software on their computer 
 
 ### Example online IDEs
 
-* [repl.it](https://repl.it)
+[repl.it](https://repl.it)
 
 ![a screenshot of the online IDE repl.it](images/replit.png)
 
 * [Repl.it's 'quick start' guide](https://docs.repl.it/misc/quick-start)
 
-* [trinket.io](https://trinket.io)
+[trinket.io](https://trinket.io)
 
 ![a screenshot of the online IDE trinket.io](images/trinket.png)
 
