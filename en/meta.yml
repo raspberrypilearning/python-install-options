@@ -1,12 +1,15 @@
+---
 title: Applications for creating Python programs
 hero_image: images/banner.png
 description: Guidance on applications for creating and running Python programs
 version: 4
 listed: false
 copyedit: true
-last_tested: "2020-08-07"
+last_tested: '2020-08-07'
 steps:
-  - title: Introduction
-  - title: Online IDE
-  - title: Dedicated Python editor
-  - title: Full Python install
+- title: Introduction
+  completion: engaged
+- title: Online IDE
+- title: Dedicated Python editor
+  completion: internal
+- title: Full Python install
