@@ -8,8 +8,6 @@ copyedit: true
 last_tested: '2020-08-07'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Online IDE
 - title: Dedicated Python editor
-  completion: internal
 - title: Full Python install
